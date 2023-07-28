@@ -10,5 +10,5 @@ I'm an aspiring data analyst who is trying to figure out a place in the whole th
 
 
 ## 🛠 Skills
-Python, tableau, SQL, Machine learning (basics ;-;)
+Python, tableau, SQL
 
