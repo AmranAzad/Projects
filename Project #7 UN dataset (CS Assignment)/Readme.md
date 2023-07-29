@@ -1,3 +1,3 @@
 # UN Dataset
 
-This file came as an academic assignment from a CS student I worked for. It was an easy assignment, some basic cleaning, some imputation and thats about it.
+I collaborated with a CS professional to group and organize the data to answer questions specific to the dataset.
